@@ -6,7 +6,7 @@
 
 1. Install the required packages.
     ```sh
-    cd react-tailwind-css-starter-pack
+    cd Tour_App
     npm install
     ```
 
